@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Tohle je prostì o nás.
+Tohle je proste o nas.
