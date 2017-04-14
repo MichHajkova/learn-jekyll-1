@@ -26,7 +26,21 @@ Filip Kartous Photographer
  
  [kilianschoenberger.de](http://www.kilianschoenberger.de/)
 
-  6. Odkazy na tema
+5. Newebove zdroje souvisejici s tematem 
+ 
+LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on 
+ fashion photography. Koln: Taschen, 2017. ISBN 9783836552820.
+
+ FREEMAN, Michael. Svetlo ve fotografii. V Brne: Computer Press, 2014. ISBN 9788025141748.
+
+ Fotografovani. Prelozil Patricie RUZICKOVA. V Praze: Slovart, 2015. ISBN 9788075290335.
+
+ casopis FotoVideo
+
+ kalendar Pirelli
+
+  
+6. Odkazy na tema
  
 Odkaz na FB profil autora vcetne galerie jeho prace, ze ktere budeme vychazet 
 
