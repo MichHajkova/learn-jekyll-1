@@ -8,7 +8,7 @@ Mlade zeny, ktere by mohly mit zajem o nafoceni vlastnich fotografii v ruznem st
  
 2. Cil webu
  
-Cilem webu je propagovat fotografa a vhodne prezentovat jeho umeleckou tvorbu. Stranky by mely oslovit cilovou skupinu a vzbudit v ni zajem o spolupraci s fotografem, zaroven by pak mely slouzit jako reprezentativní portfolio autora a verejna galerie jeho tvorby.
+Cilem webu je propagovat fotografa a vhodne prezentovat jeho umeleckou tvorbu. Stranky by mely oslovit cilovou skupinu a vzbudit v ni zajem o spolupraci s fotografem, zaroven by pak mely slouzit jako reprezentativni portfolio autora a verejna galerie jeho tvorby.
  
 3. Nazev webu
   
