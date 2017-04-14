@@ -52,17 +52,17 @@ Odkaz na FB profil autora vcetne galerie jeho prace, ze ktere budeme vychazet
   zkusime co nejvice priblizit [necrania.com](http://necrania.com/)
  
 8. Vybudovani webu 
-HomePage
-Gallery 
+- HomePage
+- Gallery 
    - projekty 
    - modelky
-Backstage
-O autorovi
-Kontakt 
+- Backstage
+- O autorovi
+- Kontakt 
    - kontakt na fotografa a studio 
    - kalendar s rezervacnim systemem 
    - socialni site a dalsi odkazy
-Reference
+- Reference
 
 9. Publikacni plan
 
