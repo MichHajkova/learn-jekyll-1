@@ -34,7 +34,7 @@ LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on
  FREEMAN, Michael. Svetlo ve fotografii. V Brne: Computer Press, 2014. ISBN 
  9788025141748.
 
- Fotografovani. Pøeložil Patricie RUZICKOVA. V Praze: Slovart, 2015. ISBN 
+ Fotografovani. Prelozil Patricie RUZICKOVA. V Praze: Slovart, 2015. ISBN 
  9788075290335.
 
  casopis FotoVideo
