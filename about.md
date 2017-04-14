@@ -8,15 +8,15 @@ title: About
  2. Cil webu
   Cilem webu je propagovat fotografa a vhodne prezentovat jeho umeleckou tvorbu. 
   Stranky by mely oslovit cilovou skupinu a vzbudit v ni zajem o spolupraci s fotografem, 
-  zároven by pak mely slouzit jako reprezentativní portfolio autora a verejna galerie jeho 
+  zaroven by pak mely slouzit jako reprezentativní portfolio autora a verejna galerie jeho 
   tvorby.
  3. Nazev webu
   Filip Kartous Photographer
- 4. Webove zdroje související s tématem 
+ 4. Webove zdroje souvisejici s tematem 
  http://necrania.com/ http://obrjen.com/ 
  http://arathan-photography.weebly.com/ 
  http://kamilanoranetik.com/ 
- http://www.kilianschoenberger.de/¨
+ http://www.kilianschoenberger.de/
 
  5. Ne-webove zdroje souvisejici s tematem 
  LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on 
