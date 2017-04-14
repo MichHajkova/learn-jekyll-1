@@ -16,7 +16,9 @@ Filip Kartous Photographer
  
 4. Webove zdroje souvisejici s tematem 
  
- [necrania.com](http://necrania.com/ http://obrjen.com/) 
+ [necrania.com](http://necrania.com/) 
+
+ [obrjen.com](http://obrjen.com/) 
  
  [arathan-photography.weebly.com](http://arathan-photography.weebly.com/) 
  
@@ -27,7 +29,7 @@ Filip Kartous Photographer
  5. Ne-webove zdroje souvisejici s tematem 
  
 LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on 
- fashion photography. Köln?: Taschen, 2017. ISBN 978-3-8365-5282-0.
+ fashion photography. Koln: Taschen, 2017. ISBN 978-3-8365-5282-0.
 
  FREEMAN, Michael. Svetlo ve fotografii. V Brne: Computer Press, 2014. ISBN 
  9788025141748.
