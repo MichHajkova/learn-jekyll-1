@@ -14,43 +14,6 @@ Cilem webu je propagovat fotografa a vhodne prezentovat jeho umeleckou tvorbu. S
   
 Filip Kartous Photographer
  
-4. Webove zdroje souvisejici s tematem 
- 
- [necrania.com](http://necrania.com/) 
-
- [obrjen.com](http://obrjen.com/) 
- 
- [arathan-photography.weebly.com](http://arathan-photography.weebly.com/) 
- 
- [kamilanoranetik.com](http://kamilanoranetik.com/) 
- 
- [kilianschoenberger.de](http://www.kilianschoenberger.de/)
-
- 5. Ne-webove zdroje souvisejici s tematem 
- 
-LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on 
- fashion photography. Koln: Taschen, 2017. ISBN 978-3-8365-5282-0.
-
- FREEMAN, Michael. Svetlo ve fotografii. V Brne: Computer Press, 2014. ISBN 
- 9788025141748.
-
- Fotografovani. Prelozil Patricie RUZICKOVA. V Praze: Slovart, 2015. ISBN 
- 9788075290335.
-
- casopis FotoVideo
-
- kalendar Pirelli
-
- 6. Odkazy na tema
- 
-Odkaz na FB profil autora vcetne galerie jeho prace, ze ktere budeme vychazet 
-
-[zde](https://www.facebook.com/FilipKartousPhotographer/)
- 
-7. Jak si to predstavujeme
-  pro inspiraci napriklad tyto webovky, kategorie bychom vicemene zachovali a vizual 
-  zkusime co nejvice priblizit [necrania.com](http://necrania.com/)
- 
 8. Vybudovani webu 
 - HomePage
 - Gallery 
