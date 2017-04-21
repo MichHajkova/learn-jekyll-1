@@ -1,0 +1,1 @@
+Zkusebni text pro soubor vytvoreny v nove vetve repozitare.
