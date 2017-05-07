@@ -1,7 +1,8 @@
 .wrapper {
-	margin: 50px auto;
+	margin: 350px auto;
 	max-width: 800px;
 	padding: 20px;
+	color: black;
 }
 
 .header {
